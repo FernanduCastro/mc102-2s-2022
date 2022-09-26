@@ -10,9 +10,7 @@ Borabill = True
 estoque = 0
 vendas = 0
 while Borabill == True:
-    print(f'Vendas: {vendas}') #### teste
-    print(f'Estoque: {estoque}') #### teste
-
+    
     entrada = int(input())
 
     if entrada != 0:
