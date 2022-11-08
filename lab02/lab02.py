@@ -23,4 +23,3 @@ else:
 
 # Impressão da resposta
 print(resultado)
-
