@@ -28,7 +28,6 @@ def calculadorProdutoEstoque(qtd_produto, nome_produto):
         estoque[nome_produto]['pedidoCompra'] += 1
 
 
-
 while True:
     produto = input()
 
