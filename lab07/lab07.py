@@ -2,7 +2,7 @@
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 7 - Disconnect
 # Nome: FERNANDO CASTRO
-# RA: TO THE WINDOW, TO THE WALL!
+# RA: Disconnect
 ###################################################
 
 # Leitura das tropas de defesa

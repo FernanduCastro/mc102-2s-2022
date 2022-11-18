@@ -2,7 +2,7 @@
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 4 - Controle de Estoque
 # Nome: FERNANDO CASTRO
-# RA: DONT KNOW WTF IS THIS!
+# RA: Controle de Estoque
 ###################################################
 
 # leitura da sequência de compras e vendas

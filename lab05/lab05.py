@@ -2,7 +2,7 @@
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 5 - Jornada de Trabalho
 # Nome: FERNANDO CASTRO
-# RA: DONT SEI QUE PORRA IS THIS!!
+# RA: Jornada de Trabalho
 ##################################################
 
 # Leitura do valor da hora

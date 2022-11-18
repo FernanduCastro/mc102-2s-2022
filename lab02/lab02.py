@@ -2,7 +2,7 @@
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 2 - Rumo a Marte
 # Nome: fernando castro
-# RA:
+# RA: Rumo a Marte
 ###################################################
 
 # Leitura de dados

@@ -2,7 +2,7 @@
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 8 - Wordle
 # Nome: FERNANDO CASTRO
-# RA: YOU SHALL NOT PASS
+# RA: Wordle
 ###################################################
 
 listaPalavra = []

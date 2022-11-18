@@ -2,7 +2,7 @@
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 6 - Torre de Panquecas
 # Nome: FERNANDO CASTRO
-# RA: AGAIN, NÃO SEI!!
+# RA: Torre de Panquecas
 ##################################################
 
 # Leitura da torre de panquecas

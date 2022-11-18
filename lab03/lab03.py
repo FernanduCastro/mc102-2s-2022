@@ -1,8 +1,8 @@
 ###################################################
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 3 - Ingresso do Cinema
-# Nome:
-# RA:
+# Nome: FERNANDO CASTRO
+# RA: Ingresso do Cinema
 ###################################################
 
 # leitura de dados

@@ -2,7 +2,7 @@
 # MC102 - Algoritmos e Programação de Computadores
 # Laboratório 1 - Aritmética com Inteiros
 # Nome: fernando castro
-# RA: 
+# RA: Aritmética com Inteiros
 ###################################################
 
 a = int(input())
